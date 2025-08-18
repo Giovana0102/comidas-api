@@ -1,6 +1,7 @@
 
 // URL base da API
-const API_URL = 'https:/my-json-server.typicode.com/Giovana0102/comidas-api';
+const API_URL = 'https://my-json-server.typicode.com/Giovana0102/comidas-api';
+
 
 // Função para formatar o preço
 const formatarPreco = (preco) => {
