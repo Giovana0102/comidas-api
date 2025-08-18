@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Bolo de chocolate",
+      "price": 200.00,
+      "description": "melhor bolo de chocolate...",
+      "category": "Doce",
+      "image": "imagens/Bolo de chocolate.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "coxinha de frango",
+      "price": 5,
+      "description": "Coxinha de frango...",
+      "category": "Salgados",
+      "image": "imagens.coxinha.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "lasanha de carne",
+      "price": 10.00,
+      "description": "Ótima lasanha...",
+      "category": "Salgados",
+      "image": ".imagens/lasanha.jpeg"
+    },
+    {
+      "id": 4,
+      "title": "Tapioca recheada",
+      "price": 10.00,
+      "description": "tapioca recheada.",
+      "category": "salgado",
+      "image": "imagens/tapioca de frango.jpeg"
+    },
+    {
+      "id": 5,
+      "title": "Torta de frango",
+      "price": 19.99,
+      "description": "torta de frango deliciosa.",
+      "category": "salgado",
+      "image": "imagens/torta de frango.jpeg"
+    }
+  ]
+}
