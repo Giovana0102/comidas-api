@@ -3,15 +3,15 @@
     {
       "id": 1,
       "title": "Bolo de chocolate",
-      "price": 200.00,
+      "price": 100.00,
       "description": "melhor bolo de chocolate...",
       "category": "Doce",
-      "image": "imagens/Bolo de chocolate.jpeg"
+      "image": "Bolo de chocolate.jpeg"
     },
     {
       "id": 2,
       "title": "coxinha de frango",
-      "price": 5,
+      "price": 5.00,
       "description": "Coxinha de frango...",
       "category": "Salgados",
       "image": "imagens.coxinha.jpeg"
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "title": "Torta de frango",
-      "price": 19.99,
+      "price": 20.00,
       "description": "torta de frango deliciosa.",
       "category": "salgado",
       "image": "imagens/torta de frango.jpeg"
