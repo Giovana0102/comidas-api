@@ -6,7 +6,7 @@
       "price": 100.00,
       "description": "melhor bolo de chocolate...",
       "category": "Doce",
-      "image": "bolo.jpeg"
+      "image": "imagens/bolo.jpeg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "price": 5.00,
       "description": "Coxinha de frango...",
       "category": "Salgados",
-      "image": "coxinhas"
+      "image": "imagens/coxinha.jpeg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "price": 10.00,
       "description": "Ótima lasanha...",
       "category": "Salgados",
-      "image": "lasanha.jpeg"
+      "image": "imagens/lasanha.jpeg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "price": 10.00,
       "description": "tapioca recheada.",
       "category": "Salgado",
-      "image": "tapioca.jpeg"
+      "image": "imagens/tapioca.jpeg"
     },
     {
       "id": 5,
@@ -38,10 +38,7 @@
       "price": 20.00,
       "description": "torta de frango deliciosa.",
       "category": "Salgado",
-      "image": "torta.jpeg"
+      "image": "imagens/torta.jpeg"
     }
   ]
 }
-
-
-
